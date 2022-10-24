@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw4-koizura/static/css/main.b6832693.css",
+    "main.js": "/hw4-koizura/static/js/main.5c6705db.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-koizura/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-koizura/index.html",
+    "main.b6832693.css.map": "/hw4-koizura/static/css/main.b6832693.css.map",
+    "main.5c6705db.js.map": "/hw4-koizura/static/js/main.5c6705db.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-koizura/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.5c6705db.js"
+  ]
+}
